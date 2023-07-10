@@ -1,0 +1,16 @@
+.card-holder {
+    list-style: none;
+    margin: 10px auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+
+  .filter-section{
+    display: inline-block;
+    position: sticky;
+    left: 0;
+    border: 1px solid black;
+    width:16%
+  }
+  

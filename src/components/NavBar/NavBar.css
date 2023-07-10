@@ -1,0 +1,15 @@
+
+.nav-holder {
+    display: flex;
+    gap: 1rem;
+}
+
+
+
+.nav-holder > a {
+    
+    text-decoration: none;
+
+
+
+}
